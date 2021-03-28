@@ -4,7 +4,7 @@ Learning the basic use Swift and using an external API's.
 API'S data is collected as a JSON file and sent to the UIViewController.
 
 In the first version of the app, the user is able to look for weather condition by typing the city in the UITextView.
-![Board](https://github.com/crisapal/Swift-Weather-App/blob/main/Meteo%20App%201.0.mov)
+![Board](https://github.com/crisapal/Swift-Weather-App/blob/main/swiftApp.gif)
 
 
 
